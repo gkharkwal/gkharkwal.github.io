@@ -14,11 +14,38 @@ function getRandomNumber(min, max) {
     return (Math.random() * (max - min)) + min;
 }
 
+function range(start, stop, step) {
+    // Validation checks
+    if (start === undefined) {
+        return [];
+    }
+    if (stop === undefined) {
+        stop  = start;
+        start = 0;
+    }
+    step = step || 1;
+
+    var arr = [];
+    for (var i = start; i < stop; i += step) {
+        arr.push(i);
+    }
+
+    return arr;
+}
+
 // ----------------------------------------------------------------------------
 // Rect
 // ----------------------------------------------------------------------------
 function Rect() {
     this.draw = function (context) {
+        var animState = this.animSeq[this.animCtr];
+        this.animCtr = (this.animCtr + 1) % this.animSeq.length;
+
+        this.x = this.x - animState * (this.animAmt / 2);
+        this.y = this.y - animState * (this.animAmt / 2);
+        this.width  = this.width  + (animState * this.animAmt);
+        this.height = this.height + (animState * this.animAmt);
+
         context.fillStyle = this.colour;
         context.fillRect(this.x, this.y, this.width, this.height);
     };
@@ -34,6 +61,10 @@ function Rect() {
                       getRandomInteger(50, 250, 50) + ', ' + // B
                       getRandomNumber(.2, .8) + // A 
                     ')';
+
+    this.animSeq = range(-3, 4);
+    this.animCtr = this.animSeq.indexOf(0);
+    this.animAmt = 2;
 }
 
 // ----------------------------------------------------------------------------
@@ -69,7 +100,13 @@ window.onload = function () {
     canvas = new Canvas(canvas);
     canvas.addRect();
     canvas.addRect();
-    canvas.draw();
+
+   (function draw() {
+       setTimeout(function () {
+           window.requestAnimationFrame(draw);
+           canvas.draw();
+       }, 1000/15); // 15 fps
+   })();
 };
 
 })();
