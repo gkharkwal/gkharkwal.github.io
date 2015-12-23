@@ -91,7 +91,6 @@ function Canvas(canvas) {
 
 window.onload = function () {
     var canvas = document.getElementById('canvas');
-
     if (!canvas || !canvas.getContext) {
         // no candy for you
         return;
@@ -99,7 +98,11 @@ window.onload = function () {
 
     canvas = new Canvas(canvas);
     canvas.addRect();
-    canvas.addRect();
+
+    // Add more rectangles
+    document.getElementById('more').addEventListener('click', function () {
+        canvas.addRect();
+    });
 
    (function draw() {
        setTimeout(function () {

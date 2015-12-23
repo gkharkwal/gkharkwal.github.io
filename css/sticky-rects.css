@@ -1,4 +1,27 @@
+#container {
+  display: inline-block;
+}
+
+#controls {
+  position: relative;
+  float: right;
+}
+
 canvas {
   border: 1px solid black;
+}
+
+button {
+  background-color: #3498db;
+  border: none;
+  color: #ffffff;
+  font-size: 18px;
+  padding: 5px 10px 5px 10px;
+  text-decoration: none;
+}
+
+button:hover {
+  background-color: #3cb0fd;
+  border: none;
 }
 
