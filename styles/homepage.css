@@ -1,0 +1,16 @@
+a {
+  color: #0960A0;
+  text-decoration: none;
+}
+
+header {
+  margin: 25px;
+}
+
+section {
+  margin: 50px 25px 25px 25px;
+}
+
+section#main {
+  width: 800px;
+}
