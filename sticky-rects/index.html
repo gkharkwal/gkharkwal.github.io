@@ -1,23 +1,30 @@
 <html>
 <head>
   <title>Sticky Rectangles</title>
+
   <script type="text/javascript" src="scripts/sticky-rects.js"></script>
+
+  <link rel="stylesheet" type="text/css" href="../main.css"></link>
   <link rel="stylesheet" type="text/css" href="styles/sticky-rects.css"></link>
 </head>
 <body>
-  <h1>It's alive!</h1>
+  <header>
+    <h1>Sticky Rectangles</h1>
+  </header>
 
-  <div id="container">
-    <div id="controls">
-      <button id="more" onclick="addMoreRect()">More!</button>
-    </div>
+  <section>
+    <div id="container">
+      <div id="controls">
+        <button id="more" onclick="addMoreRect()">More!</button>
+      </div>
 
-    <div id="easel">
-      <canvas id="canvas" width="500" height="500">
-        Whoops, looks like you need a better browser!
-      </canvas>
+      <div id="easel">
+        <canvas id="canvas" width="500" height="500">
+          Whoops, looks like you need a better browser!
+        </canvas>
+      </div>
     </div>
-  </div>
+  </section>
 </body>
 </html>
 
