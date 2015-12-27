@@ -3,3 +3,18 @@
   display: none;
 }
 
+button {
+  background-color: #3498db;
+  border: none;
+  color: #ffffff;
+  float: right;
+  font-size: 18px;
+  padding: 5px 10px 5px 10px;
+  text-decoration: none;
+}
+
+button:hover {
+  background-color: #3cb0fd;
+  border: none;
+}
+
