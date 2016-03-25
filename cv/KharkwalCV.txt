@@ -5,99 +5,105 @@ GAURAV KHARKWAL
 CONTACT INFORMATION:
 Email: gaurav.kharkwal@gmail.com
 WWW  : https://gkharkwal.github.io
- 
-WORK EXPERIENCE:Bloomberg LP, New York, NY  UI Infrastructure Developer Aug 2014 - Present    * Developed and maintained client-side applications and services for the Bloomberg Terminal.
+
+WORK EXPERIENCE:
+Bloomberg LP, New York, NY
+  UI Infrastructure Developer Aug 2014 - Present
+    * Developed and maintained client-side applications and services for the Bloomberg Terminal.
     * Developed and maintained UI framework/widgets used by app-developers to write front-end code.
 
-Rutgers University, New Brunswick, NJ 
-  Web Developer, Dept. of Psychology  --- Sept 2011 - Sept 2013 
-    * Developed a website using PHP for running behavioral experiments as part of an online lab course. 
+Rutgers University, New Brunswick, NJ
+  Web Developer, Dept. of Psychology  --- Sept 2011 - Sept 2013
+    * Developed a website using PHP for running behavioral experiments as part of an online lab course.
     * Coded experiments as Java applets, which additionally collected and parsed data.
     * Wrote detailed user-guides and teaching aids for the online course.
- 
+
 Microsoft, India Development Center
-  Software Development Engineer - Intern --- May 2008 - Aug 2008 
+  Software Development Engineer - Intern --- May 2008 - Aug 2008
     * Worked with the Visual Studio Test Professional team to develop a framework for bug reporting.
     * System allowed creation of test cases out of existing bugs and vice versa.
     * Created a UI using WPF and XAML to facilitate bug reporting.
- 
+
 TECHNICAL SKILLS:
-Programming Languages: 
+Programming Languages:
   * C++, Javascript, Python
-  * Prior experience in: Java, PHP, MySQL 
- 
-Statistical Languages: 
-  * R, Matlab, SPSS, Excel  
+  * Prior experience in: Java, PHP, MySQL
+
+Statistical Languages:
+  * R, Matlab, SPSS, Excel
 
 EDUCATION:
-Rutgers University, New Brunswick, NJ 
-  Ph.D., Cognitive Psychology (GPA: 4.0) Ñ 2014
-  M.S., Computer Science (GPA: 4.0) --- 2014 
+Rutgers University, New Brunswick, NJ
+  Ph.D., Cognitive Psychology (GPA: 4.0) --- 2014
+  M.S., Computer Science (GPA: 4.0) --- 2014
   M.S., Cognitive Psychology (GPA: 4.0) --- 2011
-    * Awarded the Excellence in Dissertation Fellowship in the academic year 2013 – 2014. 
-    * Authored and co-authored publications in peer-reviewed journals. 
-    * Presented research findings as talks and posters to peers in competitive academic conferences. 
+    * Awarded the Excellence in Dissertation Fellowship in the academic year 2013 --- 2014.
+    * Authored and co-authored publications in peer-reviewed journals.
+    * Presented research findings as talks and posters to peers in competitive academic conferences.
 
-International Institute of Information Technology, Hyderabad, India 
-  B.Tech., Computer Science and Engineering Hons. (GPA: 9.04/10) --- 2009 
-    * Included in the Dean's List every year from 2005 to 2009 for excellence in academic performance. 
+International Institute of Information Technology, Hyderabad, India
+  B.Tech., Computer Science and Engineering Hons. (GPA: 9.04/10) --- 2009
+    * Included in the Dean's List every year from 2005 to 2009 for excellence in academic performance.
     * Ranked in the top 10 of the graduating class of 2009 for achieving academic distinction.
 
 RELEVANT COURSEWORK:
-  * Research Design & Analysis  * Model Testing & Probabilistic Inference
+  * Research Design & Analysis  * Model Testing & Probabilistic Inference
   * Data Structures & Algorithms
   * Numerical Analysis
   * Principles of Artificial Intelligence
   * Machine Learning
   * Natural Language Processing
   * Language & Information
-	
+
 RELEVANT PROJECTS:
-Syntactic Complexity as a Feature for Automatic Essay Scoring --- Course Project, Spring '13 
+Syntactic Complexity as a Feature for Automatic Essay Scoring --- Course Project, Spring '13
   * Evaluated syntactic complexity as a feature for automated essay scoring using 12,000 essays.
   * Quantified syntactic complexity as processing difficulty during reading with a psycholinguistic model called "surprisal".
   * Obtained processing complexity per word for every essay using a parser trained on WSJ corpus.
   * Extracted and organized data using Python, and analyzed them by performing correlation tests and building classification models on R.
   * Found significant inverse correlation indicating simpler sentences are linked with better essay scores.
- 
+
 Improving Mood Estimates for Stock Market Prediction --- Course Project, Spring '12
   * Obtained public mood estimates as time series data using a 7-month collection of tweets.
   * Enhanced mood estimates by weighting tweets with user influence and topic relevance information.
   * Parsed tweets corpus and developed topic models using Python.
   * Conducted model-testing using Matlab to evaluate predictive capabilities of enhanced estimates.
   * Improved regression models of stock market trends by 30% with user-influence and topic-relevance enhancements.
-  
-Ontology-based Semantic Parsing --- MS in CS, 2012 – 2013
+
+Ontology-based Semantic Parsing --- MS in CS, 2012 --- 2013
   * Created a semantic parser using a constraint-based grammatical framework to produce ontological meaning representations for given sentences.
   * Developed an NLTK-inspired grammar module and a bottom-up chart parser in Python.
   * Compared parser with an equivalent CFG parser by collecting performance statistics and analyzing them via linear mixed-effects regression models.
   * Code available at: github.com/gkharkwal/LWFGParser
-   
+
 Human Sentence Processing with Word-level Noise --- PhD in Cog Psych, 2011 - ongoing
   * Investigated how people comprehend sentences containing unknown words.
   * Developed web-based and offline experiments from scratch using Python, PHP, and Java.
   * Cleaned and analyzed data using Python, R, and Matlab.
   * Developed Bayesian models of sentence processing that integrated noisy word recognition by performing corpus analysis on large-scale textual data.
- 
+
 Linguistic Representations of Visual Events --- MS in Cog Psych, 2009 - 2011
   * Evaluated two theories of human language comprehension by developing a new experimental paradigm.
   * Used Python to create experimental stimuli from scratch and to collect and parse data.
   * Analyzed data with traditional and Bayesian techniques using R and Matlab.
-  
+
 LEADERSHIP EXPERIENCE
 Rutgers University, New Brunswick, NJ
   Research Mentor --- Sept 2009 - Present
     * Advised and mentored undergraduate students on research projects.
     * Guided them through various stages of research, including project conception, data collection, data analysis, and presentation of results.
-  
+
   Teaching Assistant --- Sept 2009 - Sept 2013
     * Conducted lab sessions for "Sensation & Perception" and "Cognition" courses for groups of 20 students.
     * Supervised students in final projects, and graded weekly assignments.
     * Obtain TA certificate for "Teaching with Technology".
-	
-International Institute of Information Technology, Hyderabad, India 
-  Teaching Assistant --- Aug 2007 – May 2009 
+
+International Institute of Information Technology, Hyderabad, India
+  Teaching Assistant --- Aug 2007 - May 2009
     * Organized and evaluated lab sessions on "Data Structures & Algorithms" where 30 students coded solutions to algorithmic problems.
     * Led weekly recitation sessions with groups of 50-150 students for the following courses: "Digital Logic Design", "Networks", and "Database Management Systems".
 
-PUBLICATIONS  * Kharkwal, G. and Muresan, S. (2014). ÒSurprisal as a Predictor of Essay Quality.Ó The 9th Workshop on Innovative Use of NLP for Building Educational Applications at ACL, 54-60, Baltimore, MD.  * Kharkwal, G. and Stromswold, K. (2014). ÒGood-enough language processing: Evidence from sentence- video matching.Ó Journal of Psycholinguistic Research, 43(1), 27-43. doi:10.1007/s10936-013-9239-5.  * Lee, C., Kharkwal, G., and Stromswold, K. (2012). ÒTemporal transitions in narrative production with wordless picture books.Ó LSA Annual Meeting Extended Abstracts, elanguage.net.
+PUBLICATIONS
+  * Kharkwal, G. and Muresan, S. (2014). "Surprisal as a Predictor of Essay Quality." The 9th Workshop on Innovative Use of NLP for Building Educational Applications at ACL, 54-60, Baltimore, MD.
+  * Kharkwal, G. and Stromswold, K. (2014). "Good-enough language processing: Evidence from sentence- video matching." Journal of Psycholinguistic Research, 43(1), 27-43. doi:10.1007/s10936-013-9239-5.
+  * Lee, C., Kharkwal, G., and Stromswold, K. (2012). "Temporal transitions in narrative production with wordless picture books." LSA Annual Meeting Extended Abstracts, elanguage.net.
