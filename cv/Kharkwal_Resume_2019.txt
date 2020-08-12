@@ -1,48 +1,0 @@
------------------
-GAURAV KHARKWAL
------------------
-
-CONTACT INFORMATION:
-Email: gaurav.kharkwal@gmail.com
- 
-WORK EXPERIENCE:Google, New York, NY  Software Engineer June 2016 - Present
-    * Currently, Tech Lead working with several quality and full-stack engineers on local search features.
-    * As Tech Lead, I spend a lot of my time with various stakeholders - e.g., Eng/Product/Program
-Managers - planning strategy and developing roadmaps.
-    * Previously, worked within local search on various parts of the search features stack - e.g., query understanding, ranking/triggering/data quality, and web/Android full-stack development.
-Bloomberg LP, New York, NY  UI Infrastructure Developer Aug 2014 - May 2016    * Developed and maintained client-side applications and services for the Bloomberg Terminal.
-    * Additionally, worked on UI infrastructure used by developers for building features on the Terminal.
-
-Rutgers University, New Brunswick, NJ 
-  Web Developer, Dept. of Psychology  --- Sept 2011 - Sept 2013 
-    * Developed a website for running behavioral experiments built as Java applets as part of an online lab course.
- 
-Microsoft, India Development Center
-  Software Development Engineer - Intern --- May 2008 - Aug 2008 
-    * Worked with the Visual Studio Test Professional team to develop a framework for bug reporting
-using WPF and XAML to facilitate bug reporting.
- 
-TECHNICAL EXPERTISE:
-Experience: 
-  * Full-stack web development
-  * Experiment-driven feature development: e.g., A/B testing features as well as ranking/triggering
-  * Data analysis
-
-Programming Languages: 
-  * C++, Javascript, Java
-  * Prior experience in: Python
-
-EDUCATION:
-Rutgers University, New Brunswick, NJ 
-  Ph.D., Cognitive Psychology (GPA: 4.0) Ñ 2014
-  M.S., Computer Science (GPA: 4.0) --- 2014 
-  M.S., Cognitive Psychology (GPA: 4.0) --- 2011
-    * Awarded the Excellence in Dissertation Fellowship in the academic year 2013 – 2014. 
-    * Presented research findings as talks and posters to peers in competitive academic conferences. 
-
-International Institute of Information Technology, Hyderabad, India 
-  B.Tech., Computer Science and Engineering Hons. (GPA: 9.04/10) --- 2009 
-    * Included in the Dean's List every year from 2005 to 2009 for excellence in academic performance. 
-    * Ranked in the top 10 of the graduating class of 2009 for achieving academic distinction.
-
-SELECTED PUBLICATIONS  * Kharkwal, G. and Muresan, S. (2014). ÒSurprisal as a Predictor of Essay Quality.Ó The 9th Workshop on Innovative Use of NLP for Building Educational Applications at ACL, 54-60, Baltimore, MD.  * Kharkwal, G. and Stromswold, K. (2014). ÒGood-enough language processing: Evidence from sentence- video matching.Ó Journal of Psycholinguistic Research, 43(1), 27-43. doi:10.1007/s10936-013-9239-5.  * Lee, C., Kharkwal, G., and Stromswold, K. (2012). ÒTemporal transitions in narrative production with wordless picture books.Ó LSA Annual Meeting Extended Abstracts, elanguage.net.
